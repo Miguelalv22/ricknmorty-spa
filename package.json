@@ -1,0 +1,15 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "single page application",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "author": "Miguel Lopez <miguel.2211.lopez@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
