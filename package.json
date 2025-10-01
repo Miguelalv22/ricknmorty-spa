@@ -8,7 +8,7 @@
   "license": "MIT",
   "author": "Miguel Lopez <miguel.2211.lopez@gmail.com>",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "build": "webpack --mode production",
     "start": "webpack-dev-server --open --mode development"
